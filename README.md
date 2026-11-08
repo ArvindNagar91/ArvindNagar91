@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArvindNagar91
 - 👀 I’m interested in Automation and DevOps
-- 🌱 I’m currently learning PowerShell and AWS and 
-- 💞️ I’m looking to collaborate on HCL and PowerShell
+- 🌱 I’m currently learning K8s, observablity, 
 - 📫 arvindnagar91@gmail.com
 
 <!---
